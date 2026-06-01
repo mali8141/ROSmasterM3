@@ -1,0 +1,56 @@
+running egg_info
+creating ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info
+writing ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/PKG-INFO
+writing dependency_links to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/dependency_links.txt
+writing entry points to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/entry_points.txt
+writing requirements to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/requires.txt
+writing top-level names to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/top_level.txt
+writing manifest file '../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/SOURCES.txt'
+reading manifest file '../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/SOURCES.txt'
+writing manifest file '../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build
+creating /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build/lib
+creating /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build/lib/yahboom_M3Pro_description
+copying yahboom_M3Pro_description/__init__.py -> /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build/lib/yahboom_M3Pro_description
+running install
+running install_lib
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description
+copying /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build/lib/yahboom_M3Pro_description/__init__.py -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description
+byte-compiling /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index/packages
+copying resource/yahboom_M3Pro_description -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index/packages
+copying package.xml -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+copying urdf/M3Pro.urdf -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/llink1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/Gripping.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/rlink1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/llink3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm5.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/lwheel2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/rwheel2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/rlink3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/DCW2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/lwheel1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm4.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/rwheel1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm_base_Link.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/Camera.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/base_link.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/llink2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/rlink2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+copying meshes/arm1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+copying launch/display_launch.py -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+running install_egg_info
+Copying ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info to /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/install.log'
