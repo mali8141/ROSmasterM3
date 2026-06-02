@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/PKG-INFO
+writing dependency_links to ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/dependency_links.txt
+writing entry points to ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/entry_points.txt
+writing requirements to ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/requires.txt
+writing top-level names to ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/top_level.txt
+reading manifest file '../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/SOURCES.txt'
+writing manifest file '../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/keyboard_ctrl_launch.py -> /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/share/yahboomcar_ctrl/launch
+running install_egg_info
+removing '/home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/python3.10/site-packages/yahboomcar_ctrl-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/yahboomcar_ctrl/yahboomcar_ctrl.egg-info to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/python3.10/site-packages/yahboomcar_ctrl-0.0.0-py3.10.egg-info
+running install_scripts
+Installing yahboom_joy_M3Pro script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+Installing yahboom_joy_R2 script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+Installing yahboom_keyboard script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+writing list of installed files to '/home/pawan/ROSmasterM3/build/yahboomcar_ctrl/install.log'

@@ -1,0 +1,20 @@
+[0.546s] Invoking command in '/home/pawan/ROSmasterM3/yahboom_M3Pro_description': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/yahboom_M3Pro_description build --build-base /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build install --record /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/install.log --single-version-externally-managed install_data
+[0.722s] running egg_info
+[0.723s] writing ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/PKG-INFO
+[0.723s] writing dependency_links to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/dependency_links.txt
+[0.723s] writing entry points to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/entry_points.txt
+[0.723s] writing requirements to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/requires.txt
+[0.723s] writing top-level names to ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/top_level.txt
+[0.724s] reading manifest file '../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.726s] writing manifest file '../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.726s] running build
+[0.726s] running build_py
+[0.727s] running install
+[0.727s] running install_lib
+[0.728s] running install_data
+[0.728s] running install_egg_info
+[0.729s] removing '/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.729s] Copying ../build/yahboom_M3Pro_description/yahboom_M3Pro_description.egg-info to /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom_M3Pro_description-0.0.0-py3.10.egg-info
+[0.730s] running install_scripts
+[0.746s] writing list of installed files to '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/install.log'
+[0.763s] Invoked command in '/home/pawan/ROSmasterM3/yahboom_M3Pro_description' returned '0': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/yahboom_M3Pro_description build --build-base /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build install --record /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/install.log --single-version-externally-managed install_data
