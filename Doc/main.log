@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.7)  8 JUN 2026 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.7)  9 JUN 2026 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -57,7 +57,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (C:\Users\malip\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `fig:H_control_pipeline' multiply defined.
+
+
+LaTeX Warning: Label `fig:S_control_pipeline' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -116,6 +123,10 @@ Overfull \hbox (2.33104pt too wide) in paragraph at lines 37--38
 
 
 [2]
+Overfull \hbox (6.89777pt too wide) in paragraph at lines 69--69
+[]\T1/cmr/bx/n/14.4 Complete Hard-ware and soft-ware based pipeline 
+ []
+
 <Img/H_control_pipeline.png, id=19, 1085.05376pt x 259.97125pt>
 File: Img/H_control_pipeline.png Graphic file (type png)
 <use Img/H_control_pipeline.png>
@@ -129,25 +140,47 @@ Package pdftex.def Info: Img/S_control_pipeline.png  used on input line 88.
 
 
 [3 <./Img/H_control_pipeline.png> <./Img/S_control_pipeline.png>]
+<Img/Keyboard Hardware pipeline.png, id=26, 156.585pt x 392.46625pt>
+File: Img/Keyboard Hardware pipeline.png Graphic file (type png)
+<use Img/Keyboard Hardware pipeline.png>
+Package pdftex.def Info: Img/Keyboard Hardware pipeline.png  used on input line 114.
+(pdftex.def)             Requested size: 86.25pt x 216.18646pt.
 
-[4] (main.aux)
+
+[4]
+Overfull \hbox (7.94525pt too wide) in paragraph at lines 119--120
+[]\T1/cmr/m/n/10 The ex-ist-ing \T1/cmtt/m/n/10 yahboomcar_keyboard.py \T1/cmr/m/n/10 node can be used with-out any changes. 
+ []
+
+<Img/Keyboard software pipeline.png, id=30, 164.615pt x 352.31625pt>
+File: Img/Keyboard software pipeline.png Graphic file (type png)
+<use Img/Keyboard software pipeline.png>
+Package pdftex.def Info: Img/Keyboard software pipeline.png  used on input line 125.
+(pdftex.def)             Requested size: 86.25pt x 184.59785pt.
+
+
+[5 <./Img/Keyboard Hardware pipeline.png> <./Img/Keyboard software pipeline.png>] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 1660 strings out of 468133
- 26093 string characters out of 5430713
+ 1674 strings out of 468133
+ 26665 string characters out of 5430713
  435301 words of memory out of 5000000
- 30296 multiletter control sequences out of 15000+600000
+ 30310 multiletter control sequences out of 15000+600000
  635599 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,1135b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\malip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on main.pdf (4 pages, 110652 bytes).
+Output written on main.pdf (5 pages, 126481 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
+ 272 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
