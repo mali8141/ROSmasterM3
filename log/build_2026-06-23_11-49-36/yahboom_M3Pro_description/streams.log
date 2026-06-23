@@ -1,0 +1,17 @@
+[0.570s] Invoking command in '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build --no-deps symlink_data
+[0.735s] running develop
+[0.829s] running egg_info
+[0.829s] writing yahboom_M3Pro_description.egg-info/PKG-INFO
+[0.829s] writing dependency_links to yahboom_M3Pro_description.egg-info/dependency_links.txt
+[0.829s] writing entry points to yahboom_M3Pro_description.egg-info/entry_points.txt
+[0.829s] writing requirements to yahboom_M3Pro_description.egg-info/requires.txt
+[0.829s] writing top-level names to yahboom_M3Pro_description.egg-info/top_level.txt
+[0.830s] reading manifest file 'yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.831s] writing manifest file 'yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.832s] running build_ext
+[0.832s] Creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom-M3Pro-description.egg-link (link to .)
+[0.832s] 
+[0.832s] Installed /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description
+[0.833s] running symlink_data
+[0.833s] error: can't copy '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/urdf/gazebo_planner_move.xacro': doesn't exist or not a regular file
+[0.849s] Invoked command in '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description' returned '1': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build --no-deps symlink_data

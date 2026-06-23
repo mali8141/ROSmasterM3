@@ -1,0 +1,18 @@
+[0.575s] Invoking command in '/home/pawan/ROSmasterM3/build/yahboomcar_ctrl': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboomcar_ctrl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pawan/ROSmasterM3/build/yahboomcar_ctrl/build --no-deps symlink_data
+[0.765s] running develop
+[0.882s] running egg_info
+[0.882s] writing yahboomcar_ctrl.egg-info/PKG-INFO
+[0.882s] writing dependency_links to yahboomcar_ctrl.egg-info/dependency_links.txt
+[0.882s] writing entry points to yahboomcar_ctrl.egg-info/entry_points.txt
+[0.882s] writing requirements to yahboomcar_ctrl.egg-info/requires.txt
+[0.882s] writing top-level names to yahboomcar_ctrl.egg-info/top_level.txt
+[0.883s] reading manifest file 'yahboomcar_ctrl.egg-info/SOURCES.txt'
+[0.884s] writing manifest file 'yahboomcar_ctrl.egg-info/SOURCES.txt'
+[0.885s] running build_ext
+[0.885s] Creating /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/python3.10/site-packages/yahboomcar-ctrl.egg-link (link to .)
+[0.885s] Installing yahboom_joy_M3Pro script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+[0.885s] Installing yahboom_joy_R2 script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+[0.886s] Installing yahboom_keyboard script to /home/pawan/ROSmasterM3/install/yahboomcar_ctrl/lib/yahboomcar_ctrl
+[0.886s] 
+[0.886s] Installed /home/pawan/ROSmasterM3/build/yahboomcar_ctrl
+[0.886s] running symlink_data

@@ -1,0 +1,52 @@
+[0.538s] Invoking command in '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build --no-deps symlink_data
+[0.697s] running develop
+[0.789s] running egg_info
+[0.790s] creating yahboom_M3Pro_description.egg-info
+[0.790s] writing yahboom_M3Pro_description.egg-info/PKG-INFO
+[0.790s] writing dependency_links to yahboom_M3Pro_description.egg-info/dependency_links.txt
+[0.790s] writing entry points to yahboom_M3Pro_description.egg-info/entry_points.txt
+[0.790s] writing requirements to yahboom_M3Pro_description.egg-info/requires.txt
+[0.790s] writing top-level names to yahboom_M3Pro_description.egg-info/top_level.txt
+[0.790s] writing manifest file 'yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.791s] reading manifest file 'yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.792s] writing manifest file 'yahboom_M3Pro_description.egg-info/SOURCES.txt'
+[0.792s] running build_ext
+[0.792s] Creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages/yahboom-M3Pro-description.egg-link (link to .)
+[0.793s] 
+[0.793s] Installed /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description
+[0.793s] running symlink_data
+[0.793s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index
+[0.793s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index
+[0.793s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index/packages
+[0.793s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/resource/yahboom_M3Pro_description -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/ament_index/resource_index/packages
+[0.793s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/package.xml -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description
+[0.793s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+[0.793s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/urdf/M3Pro.urdf -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/urdf/gazebo_planner_move.xacro -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/urdf/M3Pro.urdf.xacro -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/urdf
+[0.794s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/llink1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/Gripping.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/rlink1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/llink3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm5.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/lwheel2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/rwheel2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/rlink3.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/DCW2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/lwheel1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.794s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm4.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/rwheel1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm_base_Link.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/Camera.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/base_link.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/llink2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/rlink2.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/meshes/arm1.STL -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/meshes
+[0.795s] creating /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/launch/display_launch.py -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/launch/rsp.launch.py -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+[0.795s] symbolically linking /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/launch/gazebo.launch.py -> /home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/share/yahboom_M3Pro_description/launch
+[0.812s] Invoked command in '/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description' returned '0': PYTHONPATH=/home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pawan/ROSmasterM3/install/yahboom_M3Pro_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pawan/ROSmasterM3/build/yahboom_M3Pro_description/build --no-deps symlink_data
